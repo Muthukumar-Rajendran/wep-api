@@ -1,0 +1,16 @@
+.bsh{
+    margin-left: 180vh;
+}
+mat-sidenav-container{
+    height: 90vh;
+    background-color: bisque;
+   
+}
+mat-toolbar{
+    background-color: rgb(13, 121, 148);
+
+    
+}
+mat-sidenav{
+    background-color: darkgray;
+}
